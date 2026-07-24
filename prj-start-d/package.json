@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "20.3.32",
-    "@angular/cli": "20.3.25",
+    "@angular/cli": "21.0.4",
     "@angular/compiler-cli": "20.3.25",
     "@babel/cli": "^7.22.9",
     "@babel/core": "^7.29.6",
