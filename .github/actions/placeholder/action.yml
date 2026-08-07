@@ -1,0 +1,5 @@
+name: Placeholder action
+description: Minimal local action so CodeQL Actions analysis has repository action code to inspect.
+runs:
+  using: node20
+  main: index.js
