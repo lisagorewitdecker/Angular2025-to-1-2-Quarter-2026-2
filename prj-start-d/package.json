@@ -39,6 +39,7 @@
   },
   "overrides": {
     "@modelcontextprotocol/sdk": "1.32.2",
+    "follow-redirects": ">=1.16.2",
     "qs": "6.16.0"
   }
 }
